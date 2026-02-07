@@ -1,0 +1,392 @@
+{
+  "version": 1,
+  "base_track": "ODD FUTURE",
+  "base_artist": "UVERworld",
+  "createdAt": "2026-02-07T22:20:30.719867Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ODD FUTURE",
+      "artist": "BiS",
+      "has_synced": false,
+      "path": "select/01_ODD_FUTURE_BiS.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ODD FUTURE",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/02_ODD_FUTURE_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fitzpleasure (The Internet of Odd Future Remix)",
+      "artist": "alt-J",
+      "has_synced": false,
+      "path": "select/03_Fitzpleasure_(The_Internet_of_Odd_Future_Remix)_alt-J.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fitzpleasure (The Internet of Odd Future remix)",
+      "artist": "alt‐J",
+      "has_synced": false,
+      "path": "select/04_Fitzpleasure_(The_Internet_of_Odd_Future_remix)_alt‐J.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ODD FUTURE (From \"My Hero Academia\")",
+      "artist": "AmaLee",
+      "has_synced": false,
+      "path": "select/05_ODD_FUTURE_(From__My_Hero_Academia_)_AmaLee.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Odd Future",
+      "artist": "dj-Jo feat. Romix",
+      "has_synced": true,
+      "path": "select/06_Odd_Future_dj-Jo_feat._Romix.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Odd Future",
+      "artist": "dj-Jo",
+      "has_synced": true,
+      "path": "select/07_Odd_Future_dj-Jo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Odd Future (TV Size)",
+      "artist": "dj-Jo feat. Romix",
+      "has_synced": false,
+      "path": "select/08_Odd_Future_(TV_Size)_dj-Jo_feat._Romix.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Odd Future (TV Size)",
+      "artist": "dj-Jo",
+      "has_synced": false,
+      "path": "select/09_Odd_Future_(TV_Size)_dj-Jo.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ODD FUTURE short ver.",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/10_ODD_FUTURE_short_ver._UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Odd Future",
+      "artist": "FamilyJules feat. Caleb Hyles",
+      "has_synced": false,
+      "path": "select/11_Odd_Future_FamilyJules_feat._Caleb_Hyles.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Odd Future",
+      "artist": "Caleb Hyles",
+      "has_synced": false,
+      "path": "select/12_Odd_Future_Caleb_Hyles.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Odd Future (From \"My Hero Academia\")",
+      "artist": "NateWantsToBattle",
+      "has_synced": true,
+      "path": "select/13_Odd_Future_(From__My_Hero_Academia_)_NateWantsToBattle.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Odd Future",
+      "artist": "Jonathan Young",
+      "has_synced": true,
+      "path": "select/14_Odd_Future_Jonathan_Young.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Welcome to an Altered Future",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/15_Welcome_to_an_Altered_Future_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Welcome to an Altered Future",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/16_Welcome_to_an_Altered_Future_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Welcome to the Future",
+      "artist": "Brad Paisley",
+      "has_synced": true,
+      "path": "select/17_Welcome_to_the_Future_Brad_Paisley.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Turn Off the Lights - I'm Watching Back to the Future, Pt. 2",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/18_Turn_Off_the_Lights_-_I'm_Watching_Back_to_the_Future,_Pt._2_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Turn Off the Lights, I'm Watching Back to the Future",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/19_Turn_Off_the_Lights,_I'm_Watching_Back_to_the_Future_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Blue Tint (feat. Future)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/20_Blue_Tint_(feat._Future)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Desires (feat. Future)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/21_Desires_(feat._Future)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Grammys (feat. Future)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/22_Grammys_(feat._Future)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "FUTURE BABY",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/23_FUTURE_BABY_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Future Mothers",
+      "artist": "Freundeskreis",
+      "has_synced": true,
+      "path": "select/24_Future_Mothers_Freundeskreis.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "A Better Future",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/25_A_Better_Future_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Future Legend (2016 Remastered Version)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/26_Future_Legend_(2016_Remastered_Version)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Sir (feat. Future)",
+      "artist": "Nicki Minaj feat. Future",
+      "has_synced": true,
+      "path": "select/27_Sir_(feat._Future)_Nicki_Minaj_feat._Future.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Sir (feat. Future)",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/28_Sir_(feat._Future)_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Stupid Girl (Rabbit in the Moon - Future Retro Mix) ( 2015 - Remaster)",
+      "artist": "Garbage feat. Rabbit In The Moon",
+      "has_synced": false,
+      "path": "select/29_Stupid_Girl_(Rabbit_in_the_Moon_-_Future_Retro_Mix)_(_2015_-_Remaster)_Garbage_feat._Rabbit_In_The_Moon.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Stupid Girl (Rabbit In The Moon - Future Retro Mix)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/30_Stupid_Girl_(Rabbit_In_The_Moon_-_Future_Retro_Mix)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Future Swag",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/31_Future_Swag_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Relationship (feat. Future)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/32_Relationship_(feat._Future)_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Sup Mate (feat. Future)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/33_Sup_Mate_(feat._Future)_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "I Am The Odd One",
+      "artist": "Loney Dear",
+      "has_synced": false,
+      "path": "select/34_I_Am_The_Odd_One_Loney_Dear.txt"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "Sleep (Odd Nosdam Remix)",
+      "artist": "The Notwist",
+      "has_synced": false,
+      "path": "select/35_Sleep_(Odd_Nosdam_Remix)_The_Notwist.txt"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "Windshield Smasher (Odd Nosdam Remix)",
+      "artist": "Black Moth Super Rainbow feat. Odd Nosdam",
+      "has_synced": false,
+      "path": "select/36_Windshield_Smasher_(Odd_Nosdam_Remix)_Black_Moth_Super_Rainbow_feat._Odd_Nosdam.txt"
+    },
+    {
+      "id": "lrclib_37",
+      "source": "lrclib",
+      "title": "Windshield Smasher (Odd Nosdam Remix)",
+      "artist": "Black Moth Super Rainbow, Odd Nosdam",
+      "has_synced": false,
+      "path": "select/37_Windshield_Smasher_(Odd_Nosdam_Remix)_Black_Moth_Super_Rainbow,_Odd_Nosdam.txt"
+    },
+    {
+      "id": "lrclib_38",
+      "source": "lrclib",
+      "title": "Safe Tomorrow - Odd Nosdam Remix",
+      "artist": "Lali Puna",
+      "has_synced": false,
+      "path": "select/38_Safe_Tomorrow_-_Odd_Nosdam_Remix_Lali_Puna.txt"
+    },
+    {
+      "id": "lrclib_39",
+      "source": "lrclib",
+      "title": "You're The One - Odd Future's The Internet ft. Mike G Remix",
+      "artist": "Charli XCX",
+      "has_synced": true,
+      "path": "select/39_You're_The_One_-_Odd_Future's_The_Internet_ft._Mike_G_Remix_Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_40",
+      "source": "lrclib",
+      "title": "You're The One (Odd Future's The Internet Remix) (feat. Mike G)",
+      "artist": "Charli XCX",
+      "has_synced": true,
+      "path": "select/40_You're_The_One_(Odd_Future's_The_Internet_Remix)_(feat._Mike_G)_Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_41",
+      "source": "lrclib",
+      "title": "Odd Soul",
+      "artist": "MUTEMATH",
+      "has_synced": true,
+      "path": "select/41_Odd_Soul_MUTEMATH.lrc"
+    },
+    {
+      "id": "lrclib_42",
+      "source": "lrclib",
+      "title": "Odd Soul (Instrumental)",
+      "artist": "MUTEMATH",
+      "has_synced": true,
+      "path": "select/42_Odd_Soul_(Instrumental)_MUTEMATH.lrc"
+    },
+    {
+      "id": "lrclib_43",
+      "source": "lrclib",
+      "title": "The Meaning of Love (Fairly Odd mix)",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/43_The_Meaning_of_Love_(Fairly_Odd_mix)_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_44",
+      "source": "lrclib",
+      "title": "Odd Neighbourhood",
+      "artist": "Holygram",
+      "has_synced": false,
+      "path": "select/44_Odd_Neighbourhood_Holygram.txt"
+    },
+    {
+      "id": "lrclib_45",
+      "source": "lrclib",
+      "title": "Odd Couple",
+      "artist": "Weezer",
+      "has_synced": true,
+      "path": "select/45_Odd_Couple_Weezer.lrc"
+    },
+    {
+      "id": "lrclib_46",
+      "source": "lrclib",
+      "title": "Call On Me (Odd Mob Remix)",
+      "artist": "Starley",
+      "has_synced": true,
+      "path": "select/46_Call_On_Me_(Odd_Mob_Remix)_Starley.lrc"
+    },
+    {
+      "id": "lrclib_47",
+      "source": "lrclib",
+      "title": "Odd Look",
+      "artist": "Kavinsky",
+      "has_synced": true,
+      "path": "select/47_Odd_Look_Kavinsky.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ODD FUTURE short ver.",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_ODD_FUTURE_short_ver._UVERworld.txt"
+    }
+  ]
+}
